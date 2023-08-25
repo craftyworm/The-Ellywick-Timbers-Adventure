@@ -5,41 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11b9a9a3-2799-45fc-a29e-04edf6eabf0f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/maps/map.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/maps/map01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/green_;eft_2_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/green_closed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/green_closed_1_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/green_down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/green_down_1_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/green_left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/green_left_1_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/green_left_2_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/green_right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/green_right_1_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/green_right_2_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/green_straight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/green_straight_1_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/green_up.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/green_up_1_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/tiles/grass.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/tiles/grass_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/tiles/grass_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/tiles/grass_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/tiles/wall.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/tiles/water.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entity/Entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entity/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/GamePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/KeyHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tile/Tile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tile/TileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/maps/world_map.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/player/EWT_back_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/player/EWT_back_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/player/EWT_back_straight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/player/EWT_left_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/player/EWT_left_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/player/EWT_right_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/player/EWT_right_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/player/EWT_straight_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/player/EWT_straight_left_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/player/EWT_straight_right_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tiles/earth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tiles/sand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tiles/tree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tiles/tree_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/maps/map.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/maps/map.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entity/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entity/Entity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entity/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entity/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/GamePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tile/TileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tile/TileManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +42,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
   <component name="ProjectId" id="2TqqaGV5HEplCQaorMqvgKZYIPO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -69,7 +61,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Melanie/Melanie Project Folder/MelMakesGames/res/maps",
+    "last_opened_file_path": "C:/Users/Melanie/Melanie Project Folder/EllywickTimbersAdventure/res/tiles",
     "onboarding.tips.debug.path": "C:/Users/Melanie/Melanie Project Folder/MelMakesGames/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -78,10 +70,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Melanie\Melanie Project Folder\EllywickTimbersAdventure\res\tiles" />
+      <recent name="C:\Users\Melanie\Melanie Project Folder\EllywickTimbersAdventure\res\maps" />
+      <recent name="C:\Users\Melanie\Melanie Project Folder\EllywickTimbersAdventure\res\player" />
       <recent name="C:\Users\Melanie\Melanie Project Folder\MelMakesGames\res\maps" />
       <recent name="C:\Users\Melanie\Melanie Project Folder\MelMakesGames\res\tiles" />
-      <recent name="C:\Users\Melanie\Melanie Project Folder\MelMakesGames\res\player" />
-      <recent name="C:\Users\Melanie\Melanie Project Folder\MelMakesGames\src\res\player" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Melanie\Melanie Project Folder\MelMakesGames\src\main\resources" />
@@ -97,6 +90,19 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="EllywickTimbersAdventure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="EllywickTimbersAdventure" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
